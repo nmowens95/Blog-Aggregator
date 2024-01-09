@@ -1,2 +1,4 @@
 .env
 out
+thunder-tests
+.vscode
