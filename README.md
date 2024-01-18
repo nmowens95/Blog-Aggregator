@@ -1,6 +1,5 @@
-# Blog Agreggator
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+# Blog Agreggator 
+![with-C-book](https://github.com/nmowens95/Blog-Aggregator/assets/126295718/e4bf1c85-7379-4167-8fc3-8e7f5cba6f48) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 ## Overview
 This project is a backend server implemented in Go, using the Chi router, PostgreSQL for data storage, SQLc for SQL queries, and goose for database migrations. The main functionality of the project is to aggregate and manage RSS feeds. Users can add their own RSS feeds, follow and unfollow feeds from other users, and retrieve the latest posts from the feeds they follow.
